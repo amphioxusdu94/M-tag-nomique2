@@ -7,6 +7,14 @@ import textwrap
 from re import Pattern
 from pathlib import Path
 from typing import List, Union, Optional
+__author__ = "Desvilles Aurélien"
+__copyright__ = "Universite Paris Cité"
+__credits__ = ["Desvilles Aurélien"]
+__license__ = "GPL"
+__version__ = "1.0.0"
+__maintainer__ = "Desvilles Aurélien"
+__email__ = "desvillesaurelien@gmail.com"
+__status__ = "Done"
 
 
 def isfile(path: str) -> Path:  # pragma: no cover
